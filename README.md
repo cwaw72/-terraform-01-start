@@ -1,3 +1,7 @@
+** 설명 **
+aws vpc 생성 및 vpc 리스트 출력
+ 
+
 * resource : 쓰기 위한 
 * data Source :  읽기 위한
 
